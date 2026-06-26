@@ -10,6 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface HUDMainWindow : UIWindow
++ (void)setHideFromScreenshot:(BOOL)hide;
 @end
 
 NS_ASSUME_NONNULL_END
