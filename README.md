@@ -2,6 +2,8 @@
 
 Floating system overlay for TrollStore. A draggable circle that sits on top of all apps — tap it to trigger actions.
 
+Based on [TrollSpeed](https://github.com/Lessica/TrollSpeed) by Lessica.
+
 ## Features
 
 - Round draggable button over all apps
